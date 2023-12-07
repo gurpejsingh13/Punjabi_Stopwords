@@ -21,7 +21,7 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
     ],
-    keywords='Stopwords','punjabi stopwords nlp,'Punjabi Language Processing ','Natural Language Processing',
+    keywords='Stopwords','punjabi stopwords nlp','Punjabi Language Processing ','Natural Language Processing',
 )
 
 
