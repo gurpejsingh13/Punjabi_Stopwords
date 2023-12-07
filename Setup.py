@@ -11,6 +11,7 @@ setup(
     author_email='gurpejsingh462@gmail.com',
     url='https://github.com/gurpejsingh13/Punjabi_Stopwords.git,
     license='MIT',
+    keywords=['Stopwords','punjabi stopwords nlp','Punjabi Language Processing ','Natural Language Processing'],
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
@@ -21,7 +22,7 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
     ],
-    keywords='Stopwords','punjabi stopwords nlp','Punjabi Language Processing ','Natural Language Processing',
+    
 )
 
 
